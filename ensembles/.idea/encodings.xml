@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/AbstractTest.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/Ens1.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/Ens1Test.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/EnsembleAbstrait.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/TestEnsemble.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/TestEnsembleBis.java" charset="windows-1252" />
+  </component>
+</project>
